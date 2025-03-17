@@ -2,7 +2,7 @@
 
 💻 **Student | SQL Certified | Data Analytics Enthusiast**  
 📍 Based in Berlin 🇩🇪  
-🔍 Looking for opportunities in **Data Analytics & Backend Development**  
+🔍 Looking for opportunities in **Data Analytics**  
 
 ## 🚀 Skills  
 - **Languages:** SQL, Python  
